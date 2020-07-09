@@ -1,4 +1,4 @@
-# Airbnb2019
+# Airbnb2019 (python + Power BI)
 The data of analysing is from airbnb official website, which shows the short-term housing in munich. 
 
 To analyse the data, first step is to clean it. I used python 'new_csv.py' to clean the data and removed the wrong localization information according to the zipcodes of munich. 
